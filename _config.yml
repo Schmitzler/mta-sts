@@ -1,0 +1,8 @@
+---
+include:
+  - .well-known
+  - robots.txt
+exclude:
+  - _config.yml
+  - CNAME
+encoding: utf-8
